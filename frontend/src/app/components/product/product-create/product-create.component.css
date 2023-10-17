@@ -1,0 +1,17 @@
+.divForm {
+  padding: 16px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+
+  > input {
+    border: none;
+  }
+}
+
+button {
+  margin: 20px 15px 0px 0px;
+}
